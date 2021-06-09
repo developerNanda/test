@@ -2,7 +2,8 @@
 
 FrontEnd
 UseCase1:
-	Use Angular or React framework, Submit a simple form with movie name, language, release date, budget, collections. If we click on submit button it should save all details in database. 
+	Use Angular or React framework, Submit a simple form with movie name, language, release date, budget, collections. 
+	If we click on submit button it should save all details in database. 
   
   
 UseCase2:
